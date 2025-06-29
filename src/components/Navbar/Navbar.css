@@ -30,4 +30,17 @@
     align-items: center;
     gap: 20px;
 }
-    
+.navbar-right .icon{
+    width: 20px;
+    cursor: pointer;
+}
+.navbar-right .profile{
+    border-radius: 4px;
+    width: 35px;
+}
+.navbar-profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
